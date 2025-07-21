@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyogzz78" alt="suyogzz78" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python,Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suyogzz78](https://github.com/suyogzz78)
 
@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyogzz78&show_icons=true&locale=en&layout=compact" alt="suyogzz78" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyogzz78&show_icons=true&locale=en" alt="suyogzz78" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyogzz78&" alt="suyogzz78" /></p>
