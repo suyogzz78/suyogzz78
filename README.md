@@ -3,7 +3,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=suyogzz78&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-<br>A tech-savvy mind thriving in the world of IT<br>
+<br>💻 A <strong>tech-savvy</strong> mind 🧠 thriving in the world of <strong>IT</strong> 🌐<br>
 <br>🌱 I’m currently learning React<br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/suyog.gautam.594717) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suyoggautam_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suyog-gautam-273b40315/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sutman219@gmail.com) 
