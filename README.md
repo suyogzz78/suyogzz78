@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 <br>💻 A <strong>tech-savvy</strong> mind 🧠 thriving in the world of <strong>IT</strong> 🌐<br>
-<br>🌱 I’m currently learning Node+Express
+<br>🌱 I’m currently learning LLMS
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/suyog.gautam.594717) 
